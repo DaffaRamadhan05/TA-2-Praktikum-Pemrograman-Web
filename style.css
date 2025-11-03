@@ -14,7 +14,7 @@ body {
 
 /* Header dan Navigasi */
 .header {
-    background-color: #0b5299;
+    background-color: #907c45;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -63,7 +63,7 @@ body {
 .profile-img {
     width: 120px;
     border-radius: 10%;
-    border: 6px solid #3498db;
+    border: 6px solid #907c45;
 }
 
 .profile-info h2 {
@@ -168,7 +168,7 @@ button {
 }
 
 button:hover {
-    background-color: #005fa3;
+    background-color: #005795;
     transform: scale(1.03);
 }
 
